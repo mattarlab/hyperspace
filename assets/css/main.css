@@ -2323,7 +2323,7 @@
 		}
 
 	label {
-		color: #ffffff;
+		color: #000000;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.7em 0;
@@ -2368,7 +2368,7 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #ffffff;
+			border-color: #000000;
 			box-shadow: 0 0 0 1px #ffffff;
 		}
 
