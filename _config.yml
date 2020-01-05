@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Hyperspace
+title: MattarLab
 email: youremailaddress@gmail.com
-description: The Jekyll version of the Hyperspace theme by HTML5 UP.
+description: Our research group, mlab, studies the evolutionary and cultural origins of human behavior. We study a broad range of topics related to social behavior in the laboratory and in the field, using economic games, physiological measurements, ethnographic interviews, and surveys.
 baseurl: "/hyperspace" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 
